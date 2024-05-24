@@ -1,4 +1,4 @@
-# Inkedfur V3 Backend
+# Node Backend Template
 
 ## Run the project
 
