@@ -1,0 +1,19 @@
+export const Roles = {
+    ADMIN: 'ADMIN',
+    CREATOR: 'CREATOR',
+    CUSTOMER: 'CUSTOMER',
+}
+
+export const VERIFY_CODE_TYPES = {
+    VALIDATE_EMAIL: 'VALIDATE_EMAIL',
+    FORGOT_PASSWORD: 'FORGOT_PASSWORD',
+}
+
+export const USER_STATUS = {
+    PENDING: 'PENDING',
+    ACTIVATE: 'ACTIVATE',
+    DEACTIVATE: 'DEACTIVATE',
+    SUSPENDED: 'SUSPENDED',
+}
+
+
